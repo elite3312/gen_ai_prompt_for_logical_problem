@@ -2,6 +2,10 @@
 
 prompting gen AI to solve logical problem, namely the Missionary and Cannibals Problem
 
+## notes
+
+output: complete list of actions, cannot be something like "and so on..."
+
 ## problem text
 
 ```txt
@@ -33,6 +37,10 @@ of moves.
 ```ps
 py sim.py
 ```
+
+## presentation
+
+5 minutes presentation
 
 ## ref
 
